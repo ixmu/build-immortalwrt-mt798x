@@ -1,4 +1,4 @@
-name: t7
+name: q30
 
 on:
   repository_dispatch:
